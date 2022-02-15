@@ -1,0 +1,7 @@
+{   
+    "portRun": "9007",
+    "driver": "postgres",
+    "db": "host=127.0.0.1 port=5432 user=app dbname=newCreditProduct password=pass sslmode=disable",
+    "tokenAuthPostman": "asfbaskbflasblfblb1",
+    "tokenAuthBetweenServices": "c6a8850a2cbf-124asfn"
+}
